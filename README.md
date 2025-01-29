@@ -8,9 +8,10 @@ Este repositório contém todos os materiais, exemplos de código e projetos des
 
 ## Sites Desenvolvidos
 
-- [Anna Bella]([https://christhedragon.github.io/Curso_Desenvolvimento_Web_Completo/Projeto%20Anna%20Bella/](https://christhedragon.github.io/Curso_Desenvolvimento_Web_Completo/Projeto%20Anna%20Bella/))
-- [TecBlog]([#](https://christhedragon.github.io/Curso_Desenvolvimento_Web_Completo/Projeto%20TecBlog/))
-- [UNES]([#](https://christhedragon.github.io/Curso_Desenvolvimento_Web_Completo/Projeto%20UNES/))
+- <a href='https://christhedragon.github.io/Curso_Desenvolvimento_Web_Completo/Projeto%20Anna%20Bella/' target="_blank">Anna Bella</a><br>
+- <a href='https://christhedragon.github.io/Curso_Desenvolvimento_Web_Completo/Projeto%20TecBlog/' target="_blank"></a>TecBlog<br>
+- <a href='https://christhedragon.github.io/Curso_Desenvolvimento_Web_Completo/Projeto%20UNES/' target="_blank"></a>UNES<br>
+
 
 ## Estrutura do Repositório
 
